@@ -26,3 +26,4 @@ It is a JUnit test.
 
 I added the dependency in the pom file. 
 Using Hamcrest made our failed results more readable.
+(not the image of the test was taken before using Hamcrest)
